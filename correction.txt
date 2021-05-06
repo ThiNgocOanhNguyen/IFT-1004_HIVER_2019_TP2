@@ -1,0 +1,48 @@
+Prénom et Nom :
+Numéro de dossier (NI):
+Temps de réalisation : 
+
+
+Fonctionnalités
+---------------
+/2 : lire_tous_mots().
+     Commentaires :
+
+/1 : joueur_veut_jouer_manche().
+     Commentaires :
+
+/3 : obtenir_lettres_mot().
+     Commentaires :
+
+/4 : creer_dict_mot().
+     Commentaires :
+
+/2 : manche_terminee().
+     Commentaires :
+
+/3 : demander_lettre_joueur().
+     Commentaires :
+
+/2 : mise_a_jour_manche().
+     Commentaires :
+
+/1 : Respect de la décomposition fonctionnelle demandée.
+     Commentaires :
+
+/2 : Qualité du code (noms de variables, style, commentaires).
+     Commentaires :
+
+
+
+Pénalités pour non-respect des consignes
+----------------------------------------
+
+
+
+Autres commentaires du correcteur
+---------------------------------
+
+
+
+Total: /20
+
